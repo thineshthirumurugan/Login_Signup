@@ -1,0 +1,21 @@
+POST http://localhost:8000/register
+Content-Type: application/json
+
+{
+      "name":"Suresh",
+      "email":"thinesh@gmail.com",
+      "password":"123thsj"
+}
+
+
+###
+POST http://localhost:8000/login
+Content-Type: application/json
+
+{
+      "name":"Suresh",
+      "email":"thinesh@gmail.com",
+      "password":"123thsj"
+}
+
+
